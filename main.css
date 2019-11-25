@@ -34,6 +34,7 @@ h1 {
   float: right;
   color: black;
   margin-right: 1em;
+  font-weight: bold;
 }
 #horizontal-list {
   list-style-type: none;
