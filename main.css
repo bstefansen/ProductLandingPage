@@ -2,6 +2,7 @@
   position: fixed;
   top: 0px;
   display: inline;
+  left: 0px;
 }
 header {
   background-image: linear-gradient(#DEB887, #8B4513);
@@ -24,6 +25,7 @@ header {
 h1 {
   margin-left: .5em;
   text-shadow: 2px 2px 8px white;
+  font-family: fantasy;
 }
 #nav-bar {
   right: 0%;
@@ -51,10 +53,10 @@ body {
   background-color: rgba(100, 100, 100, 0.3);
 }
 h2 {
-  font-size: 200%;
+  font-size: 260%;
 }
 p {
-  font-size: 120%;
+  font-size: 140%;
 }
 #services {
   text-align: center;
@@ -73,7 +75,7 @@ iframe {
 }
 #order {
   padding-top: 10em;
-  font-size: 150%;
+  font-size: 180%;
 }
 #form {
   font-weight: bold;
@@ -82,7 +84,7 @@ iframe {
 }
 #email {
   margin: 1em;
-  width: 50%;
+  width: 55%;
   max-width: 400px;
   box-shadow: 2px 2px 5px black;
 }
